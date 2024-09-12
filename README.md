@@ -82,9 +82,9 @@ In addition to my SQL expertise, I am proficient in HTML, CSS, JavaScript, and C
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz48&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-imtiaz&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-imtiaz48" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-imtiaz" alt="GitHub Streak Stats" />
 </p>
