@@ -11,13 +11,13 @@ In addition to my SQL expertise, I am proficient in HTML, CSS, JavaScript, and C
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imran-imtiaz48" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=imranimtiaz" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
 <ul>
   <li>💬 Ask me about <strong>Databases, SQL, MySQL, HTML, CSS, Bootstrap, C#, .NET, JavaScript</strong></li>
-  <li>📫 How to reach me: <a href="mailto:emraan.imtiaz48@gmail.com">emraan.imtiaz48@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:emraanimtiaz.48@gmail.com">emraanimtiaz.48@gmail.com</a></li>
   <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1hKotWtJdeW1OeNG308vhL9tMAD4WNlue/view?usp=drivesdk" target="_blank">Resume</a></li>
 </ul>
 
@@ -78,7 +78,7 @@ In addition to my SQL expertise, I am proficient in HTML, CSS, JavaScript, and C
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-imtiaz48&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranimtiaz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
