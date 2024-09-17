@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Imran Imtiaz</h1>
+<h1 align="center">Hi 👋, I'm Imran Imtiaz</h1>
 <h3 align="center">
  With over 6 years of experience as a skilled SQL Database Administrator, I excel in managing, optimizing, and securing complex database systems. My primary focus is on ensuring data integrity, enhancing performance, and maintaining smooth operations that align with your business objectives.
 
